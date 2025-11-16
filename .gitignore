@@ -1,0 +1,32 @@
+# Unity generated folders - DO NOT COMMIT
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+
+# Package cache
+ProjectSettings/PackageManager/
+Packages/com.unity.*.cache/
+
+# Crash reports
+SysInfo.txt
+
+# Rider / VS / IDE stuff
+.vs/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.pidb
+*.sln
+*.unityproj
+
+# OS files
+.DS_Store
+Thumbs.db
